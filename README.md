@@ -1,7 +1,7 @@
 
 # Brain IQ correlation using IBM SPSS
 
-The Brain IQ dataset consists of variables various such as genders, ages, weight, MRI pixel, IQ and heights. The dataset contains measures of the individual's IQ, verbal IQ, and performance IQ. This dataset can be used to investigate the relationship between IQ scores and demographic variables such as gender, age, and height. This dataset can also be used to investigate the relationship between IQ and other cognitive measures, such as verbal and performance IQ.
+The Brain IQ dataset consists of variables such as genders, ages, weight, MRI pixel, IQ and heights. The dataset contains measures of the individual's IQ, verbal IQ, and performance IQ. This dataset can be used to investigate the relationship between IQ scores and demographic variables such as gender, age, and height. This dataset can also be used to investigate the relationship between IQ and other cognitive measures, such as verbal and performance IQ.
 
 
 
